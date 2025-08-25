@@ -100,8 +100,8 @@ html {
 body {
   margin: 0;
   background: radial-gradient(
-      1200px 800px at 60% -10%,
-      #3c185a 0%,
+      1200px 800px at 60% 20%,
+      #4c2671 0%,
       var(--bg) 45%
     )
     fixed;
@@ -379,3 +379,4 @@ textarea:focus-visible {
 .flex-child {
   flex: 1;
 }
+
