@@ -327,7 +327,7 @@ textarea {
 }
 textarea {
   min-height: 140px;
-  min-width: 420px;
+  min-width: 220px;
   resize: vertical;
 }
 input:focus-visible,
@@ -379,4 +379,5 @@ textarea:focus-visible {
 .flex-child {
   flex: 1;
 }
+
 
